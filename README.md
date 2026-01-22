@@ -19,3 +19,26 @@ Optimistic UI Updates: Changes appear on the screen instantly, with server valid
 Real-time Subscriptions: No "pull-to-refresh" needed. Your tasks update automatically across all logged-in devices.
 
 Python Logic Layer: Using Flask allows the app to scale with complex Python-based data processing that standard Node.js setups struggle with.
+
+🚀 Getting Started
+1. Clone the repository
+Bash
+
+git clone https://github.com/shozgicode01-ui/HighEnd-Todo-App.git
+cd HighEnd-Todo-App
+2. Backend Setup (Flask)
+Bash
+
+cd backend
+pip install -r requirements.txt
+python app.py
+3. Frontend Setup (React Native)
+Bash
+
+cd src
+npm install
+npx expo start
+
+MUST READ
+I CREATED THIS APP BECAUSE I WANT T KNOW HOW FRONTEND AND BACKEND COMMUNICATE WITH EACH OTHER HOW WE CONNECT DATABASE AND MORE THINGS LIKE ULTRA FAST UI
+IF YOU NEVER MAKE AN APP IN YOUR LIFE THIS APP TEACH YOU LOT SO MAKE IT
