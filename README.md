@@ -4,7 +4,7 @@
 
   <p align="center">
     <b>A premium, zero-latency task manager built for power users.</b><br>
-    <i>Syncs instantly. Runs natively. Scales effortlessly.</i>
+    <b>Syncs instantly. Runs natively. Scales effortlessly.</b>
   </p>
 
   <p align="center">
@@ -55,3 +55,42 @@ cd backend && pip install -r requirements.txt && python app.py
 
 # 3. Launch the Mobile Experience
 cd src && npm install && npx expo start
+
+
+🎯 What You'll Build</b>
+This isn’t just a UI prototype—this is a real, full‑stack, real‑time to‑do app.
+
+✅ Works on physical devices & simulators (Android / iOS)
+✅ Everything updates instantly across users (create, complete, delete)
+✅ No native Swift / Kotlin required—just JavaScript & React Native
+✅ From ZERO → to HERO in one video
+
+🧑‍🍳 App Features Overview
+📝 Todos Tab
+
+➕ Add new tasks
+✅ Mark as completed / uncompleted
+📝 Edit existing tasks
+🗑️ Delete tasks
+📊 Live progress bar at the top
+⚙️ Settings Tab
+
+📈 View task stats (total, completed, remaining)
+🌙 Toggle Dark Mode (actually works!)
+🔔 Notification toggle (UI only)
+🔄 Auto-sync toggle (UI only)
+🚨 Danger Zone to delete everything
+🔄 Real-Time Sync
+
+All updates reflect instantly across devices
+Powered by Convex database
+🧠 What You’ll Learn
+🏗️ Build a mobile app using React Native + Expo
+🧭 Use both tab and stack navigation (React Navigation)
+🧱 Master core components: View, Text, FlatList, ScrollView, TouchableOpacity, Switch
+🌈 Style with gradients, modals, alerts, and themes
+⚡ Connect to a real‑time backend with Convex
+🌓 Implement Dark Mode and local state toggles
+🧹 Handle deletion, editing, and real-time sync
+📱 Run apps on iOS, Android, or the web—no Mac needed!
+
